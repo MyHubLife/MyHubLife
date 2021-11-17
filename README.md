@@ -1,6 +1,8 @@
 # Borovyk Kyrylo - web dev
 My homework and test work
 
+ - CV for Intellias
+
 [Форма регистрации](https://github.com/MyHubLife/Registration_form) - Registration form
 
 [HTML_CV](https://github.com/MyHubLife/HTML_Resume) - CV on HTML/CSS
