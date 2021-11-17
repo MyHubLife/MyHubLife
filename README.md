@@ -2,4 +2,4 @@
 
 My pets-projects and test work
 
-CV for Intellias
+https://github.com/MyHubLife/MyHubLife.github.io - CV for Intellias
